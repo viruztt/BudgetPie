@@ -4,8 +4,7 @@
 
 A small desktop widget that shows where your money sits as a donut chart: one
 coloured slice per account (checking, savings, cash, investments…), the total in
-the middle, and how it has changed over the last month. It docks to the top of
-the left screen edge by default.
+the middle, and how it has changed over the last month.
 
 <p align="center"><img src="docs/screenshot.png" width="326" alt="The Budget Pie widget: a donut chart of four accounts with the total and monthly change in the middle and a legend below"></p>
 
